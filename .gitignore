@@ -1,7 +1,8 @@
 .DS_Store
 *.pyc
+.gitignore
 solutions/ankurdubey521/.vscode/
 solutions/ankurdubey521/Argument Parser/node_modules/
 solutions/ankurdubey521/Argument Parser/package-lock.json
 solutions/ankurdubey521/Argument Parser/package.json
-
+solutions/ankurdubey521/Argument Parser/.eslintrc.js
